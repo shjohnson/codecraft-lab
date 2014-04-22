@@ -22,5 +22,5 @@ end
 
 Menu.new.ip_adress
 Menu.new.load_time
-Menu.new.run 
+
 

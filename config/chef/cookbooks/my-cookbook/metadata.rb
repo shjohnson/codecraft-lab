@@ -1,6 +1,6 @@
 name 'my-cookbook'
-maintainer 'some dude'
-maintainer_email 'some.dude@example.com
+maintainer 'Sam J'
+maintainer_email 'sam.johnson@fundingcircle.com'
 license 'All rights reserved'
 description 'Blah'
 long_description 'Blaaaah'
